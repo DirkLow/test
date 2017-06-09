@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"mingdan"
+			],
+			[
+				"s",
+				"sex"
+			],
+			[
+				"de",
+				"department"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"to",
+				"tongji"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"e",
+				"elseif\telseif …"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"T",
+				"Team"
+			],
+			[
+				"YI",
+				"Yi360vrcamera"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pcip",
+		"selected_items":
+		[
+			[
+				"pcip",
+				"Package Control: List Packages"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Install Package Control"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/liu.hongya/Desktop/test/test"
+	],
+	"file_history":
+	[
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Action/Press2Action.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Action/PressAction.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Action/SupportAction.class.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp48344/opt/ad/suning/hr/duanwu.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp03135/opt/ad/suning/hr/tongji.txt",
+		"/C/Users/liu.hongya/.ssh/id_rsa.pub",
+		"/C/Users/liu.hongya/.ssh/id_rsa",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp03841/opt/ad/suning/hr/mingdan.txt",
+		"/C/Users/liu.hongya/Desktop/phpinfo.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp12706/data/yi/Lib/Action/SupportAction.class.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp52416/data/yi/Tpl/Support/firmware_home.html",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/hr/duanwu.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/hr/tongji.txt",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/hr/index.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/hr/mingdan.txt",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/hr/mingdan.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp45779/data/yi/Lib/Action/SupportAction.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/hr/tongji.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp22772/data/yi/Lib/Action/YihalovrcameraAction_bk.class.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp22217/data/yi/Lib/Action/YihaloAction.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Tpl/Yihalovrcamera/index.html",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Action/ActioncameraAction.class.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp26301/data/yi/Tpl/Yihalovrcamera/index.html",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Action/MirrorlessfaqAction.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yimap/map.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Model/SupportModel.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/admin_yi/Lib/Action/SupportAction.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/admin_yi/Lib/Model/SupportModel.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yimap/post.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Action/YihalovrcameraAction.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/hr/1.txt",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/ThinkPHP/Extend/Vendor/mail/Mail.php",
+		"/C/Users/liu.hongya/Desktop/index(1).php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp42609/etc/nginx/nginx.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp36241/etc/nginx/nginx.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp23647/etc/nginx/nginx.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp26418/data/yi/Tpl/Index/index.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp48013/data/yi/Tpl/Index/index.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp03304/data/yi/Tpl/Public/footer.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp03023/data/yi/Tpl/Public/manual.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp24388/etc/nginx/nginx.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp05867/data/yi/Tpl/Public/slide.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp05736/data/yi/Tpl/Public/video.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp55176/data/yi/Tpl/Public/navigation.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp03168/data/robots.txt",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp45142/data/yi/Tpl/Public/js.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp09948/etc/nginx/conf.d/haiwai.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp06280/data/yi/Tpl/Public/header.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp28329/etc/nginx/nginx.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp22455/usr/local/nginx/conf/nginx.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp26767/opt/ad/birthday/index.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp50693/usr/local/nginx/conf/fastcgi.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp31262/etc/php.ini",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp31815/etc/php-fpm.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp44092/etc/php-fpm.d/www.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp45059/var/log/nginx",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp48023/usr/local/nginx/conf/nginx_21.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp52474/usr/local/nginx/conf/nginx11.conf",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Tpl/Public/slide.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp53992/data/help_center.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp09571/opt/ad/suning/index.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp55829/data/yi/Tpl/Public/slide.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp55488/data/yi/Tpl/Media/index.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp02319/data/yi/Tpl/Media/index.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp13265/data/Public/images/slide9.jpg",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp50773/data/yi/Tpl/Actioncamera/index_4.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp37083/data/yi/Tpl/Actioncamera/specs_4.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp57329/data/yi/Lib/Action/ActioncameraAction.class.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp39868/data/yi/Tpl/Actioncamera/specs_2.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp59804/data/yi/Tpl/Public/slide.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp40395/data/yi/Tpl/Actioncamera/features_2.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp41497/data/yi/Tpl/Actioncamera/features_2.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp38052/data/yi/Tpl/Actioncamera/specs_5.html",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp14204/data/yi/Lib/Model/Yi360vrcameraModel.class.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp23382/etc/nginx/nginx.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp58135/data/yi/Lib/Action/ActioncameraAction.class.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp18874/etc/nginx/nginx.conf",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp14239/data/yi/Lib/Model/YihalovrcameraModel.class.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp29132/data/admin_yi/Conf/config.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp46441/data/yi/Conf/config.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Model/YihalovrcameraModel.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Model/Yi360vrcameraModel.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Model/MirrorlessfaqModel.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Tpl/Drones/index.html",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/yi/Lib/Action/DronesAction.class.php",
+		"/C/Users/liu.hongya/Desktop/yitechnology_new/1.html",
+		"/C/Users/liu.hongya/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/wamp/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+		"/C/Users/liu.hongya/Desktop/ci/application/views/welcome_message.php",
+		"/C/Users/liu.hongya/Desktop/ci/index.php",
+		"/C/Users/liu.hongya/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/liu.hongya/Desktop/mycart/admin/controller/common/dashboard.php",
+		"/C/Users/liu.hongya/Desktop/mycart/admin/config.php",
+		"/C/Users/liu.hongya/AppData/Local/Temp/scp55600/etc/nginx/nginx.conf"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"firmwarehome",
+			"ants-crm",
+			"service/ants-crm",
+			"service/ants-crm/equip/upload_new?language=en-us",
+			"s7",
+			"SendEmail",
+			"重复",
+			"sendEmail",
+			"echo",
+			"0",
+			"g.png",
+			"1232",
+			"duanwu",
+			"love-img",
+			"ah.png",
+			"yi-cloud",
+			"id/13",
+			"yi-cloud",
+			"col-md-3 pjpx",
+			"yi-home",
+			"yi-720p-dome-dow",
+			"yi-dome",
+			"parallax",
+			"JS",
+			"js",
+			"user = ",
+			"user = h",
+			"slide2",
+			"28mn",
+			"The VR Team",
+			"yitechnology_new",
+			"/yimirrorless/firmware/id/8",
+			"yi-m1-mirrorless-camera-firmware",
+			"\nyi-m1-mirrorless-camera-firmware",
+			"yi-m1-mirrorless-camera-firmware",
+			"home_domwnload",
+			"/home_download",
+			"1080p",
+			"8080",
+			"legal",
+			"8080",
+			"https"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mirr",
+				"yi\\Lib\\Action\\MirrorlessfaqAction.class.php"
+			],
+			[
+				"map",
+				"yimap\\map.php"
+			],
+			[
+				"mirrorless",
+				"yi\\Lib\\Action\\MirrorlessfaqAction.class.php"
+			],
+			[
+				"sppor",
+				"admin_yi\\Lib\\Action\\SupportAction.class.php"
+			],
+			[
+				"mirrorlessf",
+				"yi\\Lib\\Action\\MirrorlessfaqAction.class.php"
+			],
+			[
+				"yihao",
+				"yi\\Lib\\Action\\YihalovrcameraAction.class.php"
+			],
+			[
+				"mail",
+				"ThinkPHP\\Extend\\Vendor\\mail\\Mail.php"
+			],
+			[
+				"slide",
+				"yi\\Tpl\\Public\\slide.html"
+			],
+			[
+				"drones",
+				"yi\\Lib\\Action\\DronesAction.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\liu.hongya\\Desktop\\birthday_send\\bs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
